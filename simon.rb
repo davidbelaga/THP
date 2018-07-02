@@ -1,1 +1,1 @@
-push "Bonjour, Simon"
+puts "Bonjour, Simon"
